@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "逃避行",
+  "base_artist": "Eve",
+  "createdAt": "2026-02-07T08:56:48.276717Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "逃避行",
+      "artist": "ハンバート ハンバート",
+      "has_synced": false,
+      "path": "select/01_逃避行_ハンバート_ハンバート.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "逃避行",
+      "artist": "Teresa Teng",
+      "has_synced": true,
+      "path": "select/02_逃避行_Teresa_Teng.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "逃避行",
+      "artist": "鄧麗君 (Teresa Teng)",
+      "has_synced": true,
+      "path": "select/03_逃避行_鄧麗君_(Teresa_Teng).lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "逃避行",
+      "artist": "imase",
+      "has_synced": true,
+      "path": "select/04_逃避行_imase.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Touhikou [逃避行]",
+      "artist": "Miki Matsubara",
+      "has_synced": false,
+      "path": "select/05_Touhikou_[逃避行]_Miki_Matsubara.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "逃避行",
+      "artist": "imase",
+      "has_synced": false,
+      "path": "select/06_逃避行_imase.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "逃避行",
+      "artist": "frederic",
+      "has_synced": true,
+      "path": "select/07_逃避行_frederic.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "逃避行 - Escape",
+      "artist": "imase",
+      "has_synced": true,
+      "path": "select/08_逃避行_-_Escape_imase.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "逃避行",
+      "artist": "Đặng Lệ Quân (鄧麗君 - Teresa Teng)",
+      "has_synced": false,
+      "path": "select/09_逃避行_Đặng_Lệ_Quân_(鄧麗君_-_Teresa_Teng).txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "逃避行",
+      "artist": "邓丽君",
+      "has_synced": false,
+      "path": "select/10_逃避行_邓丽君.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "逃避行",
+      "artist": "amazarashi",
+      "has_synced": true,
+      "path": "select/11_逃避行_amazarashi.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "逃避行",
+      "artist": "imase",
+      "has_synced": true,
+      "path": "select/12_逃避行_imase.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "逃避行",
+      "artist": "Teresa Teng",
+      "has_synced": false,
+      "path": "select/13_逃避行_Teresa_Teng.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "逃避行 (Album Version)",
+      "artist": "Teresa Teng",
+      "has_synced": false,
+      "path": "select/14_逃避行_(Album_Version)_Teresa_Teng.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "逃避行 (Album Version)",
+      "artist": "Teresa Teng",
+      "has_synced": true,
+      "path": "select/15_逃避行_(Album_Version)_Teresa_Teng.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "逃避行",
+      "artist": "Eve",
+      "has_synced": false,
+      "path": "select/pl_01_逃避行_Eve.txt"
+    }
+  ]
+}
